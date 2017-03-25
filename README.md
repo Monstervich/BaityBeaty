@@ -1,2 +1,7 @@
 # baitybeaty
 Baity Be’aty is Heriot-Watt Dubai's website for the Solar Decathlon Middle East 2018 Competition.
+
+MISSION STATEMENT:
+Team baity be’aty, based in Dubai is seeking to play a small but important role in that future by taking part in the Solar Decathlon Middle East 2018 Competition. Our participation is in line with the University’s values that are outward looking and shaping the future. We seek to leverage the expertise of faculty, the enthusiasm of the students eager to see what they have learned in theory put into practice and collaborating with industry partners to bring the project to a successful conclusion. During the execution of the project, and armed with relevant knowledge, students will be asked to challenge existing norms and encouraged to explore innovative ideas.
+
+Baity, my home, will exist in harmony with be’aty, my environment, demonstrating that sustainable, comfortable and affordable living is within reach in Dubai. This large-scale interdisciplinary project will provide an excellent learning opportunity for students involved. By addressing real-world problems, they will gather the expertise and experience essential to contribute to the drive towards sustainability in this region and beyond.
